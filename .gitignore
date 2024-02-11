@@ -1,0 +1,5 @@
+mqtt-consumer/obj/
+mqtt-service/bin/
+mqtt-service/obj/
+mqtt-consumer/bin/
+mqtt-temperature/obj/
